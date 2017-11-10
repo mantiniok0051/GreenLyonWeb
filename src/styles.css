@@ -1,0 +1,1192 @@
+/* You can add global styles to this file, and also import other style files */
+/* =====================================================
+//////// DESKTOP 1920 * 1080 RESOLUTION SCREEN /////////
+===================================================== */
+
+/* =================================
+//////// General Styles /////////
+================================= */
+* {
+  overflow-x: visible;
+}
+
+body {
+  margin: 0px;
+  background-color: #fff;
+}
+
+header, section#welcome, div#filosophy {
+  background-color: #83BA23;
+}
+
+#welcome h2, #filosophy h2 {
+  color: #779A0B;
+  font-family: avenir-next-lt-pro-ultra-light, serif;
+}
+/* =================================
+/////////// Family-fonts ///////////
+================================= */
+/* ---- Avenir Next LT Pro Ultralight ---- */
+@font-face {
+  font-family: "avenir-next-lt-pro-ultra-light";
+  src: url('/assets/fonts/avenir-next-lt-pro-ultra-light.otf') format('opentype');
+}
+
+
+
+/* ---- Avenir Next LT Pro Ultralight Condensed ---- */
+@font-face {
+  font-family: "AvenirNextLTPro-UltLtCn";
+  src: url('/assets/fonts/AvenirNextLTPro-UltLtCn.otf') format('opentype');
+}
+
+/* ---- Avenir Next LT Pro-Cn ---- */
+@font-face {
+  font-family: "AvenirNextLTPro-Cn";
+  src: url('/assets/fonts/AvenirNextLTPro-Cn.otf') format('opentype');
+}
+
+/* =================================
+/////////////// Header /////////////
+================================= */
+header img {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+#logo-header {
+  width: 50px;
+  margin-left: 100px;
+}
+
+#texto-header {
+  width: 200px;
+  padding-bottom: 0px;
+}
+header{
+	width: 100%;
+  background-color: #82BC00;
+}
+
+/* =================================
+/////////////// Loader /////////////
+================================= */
+#load {
+  width: 150px;
+  display:block;
+  padding-top: 17.5%;
+}
+
+/* =================================
+//////// Sección Bienvenido ////////
+================================= */
+#landing, #landingM {
+    width: 100%;
+    background-color: #fff;
+
+    /* ---- box shadow ---- */
+    -webkit-box-shadow: 0px 12px 5px 0px rgba(0,0,0,0.19);
+    -moz-box-shadow: 0px 12px 5px 0px rgba(0,0,0,0.19);
+    box-shadow: 0px 12px 5px 0px rgba(0,0,0,0.19);
+}
+
+#landingM { /* --- hide Mobile landing --- */
+  display: none;
+}
+
+#welcome {
+  float: left;
+
+  /* ---- background panal1 ---- */
+  background: url('/assets/img/backgrounds/panal1.png') bottom right no-repeat;
+  background-size: 40%;
+}
+
+#welcome h2, #welcome p {
+  float: left;
+  margin-left: 6%;
+  margin-right: 25%;
+}
+
+#welcome h2 {
+  margin-top: 50px;
+  font-size: 6em;
+  margin-bottom: 20px;
+}
+
+#welcome p {
+  color: #fff;
+  font-size: 25px;
+  margin-top: -5px;
+  font-family: avenir-next-lt-pro-ultra-light;
+  font-weight: normal;
+  margin-bottom: 2.5%;
+}
+
+#lyon-text {
+  width: 150px;
+}
+/* =================================
+///////// Sección Nosotros /////////
+================================= */
+#about {
+  background: url('/assets/img/backgrounds/nosotrosT.svg') top left no-repeat,
+  url('/assets/img/backgrounds/nosotrosB.svg') bottom left no-repeat;
+  background-size: 100%;
+  background-color: #626262;
+}
+
+div#about div {
+  height:600px;
+}
+
+div#about div h2, div#about div p {
+  font-family: avenir-next-lt-pro-ultra-light, serif;
+}
+
+div#about div h2 {
+  color: #94D60A;
+  font-size: 6em;
+  margin-top: 80px;
+}
+
+div#about div p {
+  font-weight: bold;
+  color: #fff;
+  font-size: 25px;
+  margin-right: 40px;
+}
+
+#about-us {
+  width: 64.2%;
+  margin-left: 600px;
+  margin-top: -450px;
+}
+
+#text-us {
+  width: 46% !important;
+}
+
+/* ---- Description Container ---- */
+#contenedor {
+  background-size: 1600px;
+  margin-top: 120px;
+  margin-left: 14%;
+}
+
+/* ---- Profile Pictures ---- */
+.floating-box {
+    float: right;
+    width: 150px;
+    margin-right: 170px;
+    z-index: 1;
+
+
+}
+
+div#about div.floating-box p {
+  font-family: "AvenirNextLTPro-UltLtCn";
+  color:rgba(148, 214, 10, 0.6);
+  text-align:center;
+  font-size: 40px;
+  margin-top:-85px;
+  margin-left: 130px;
+  z-index:-1;
+  /* --- transition effect --- */
+  -webkit-transition: all 0.5s ease; /* Safari */
+  -ms-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+
+}
+
+.floating-box img {
+  width: 370px;
+  height: 440px;
+  padding: 0px 35px 100px 35px;
+  margin-left: 0px;
+  z-index: 10;
+  margin-top: -5px;
+
+
+   /* --- blur effect ---
+  -webkit-filter: blur(3px);
+  -ms-filter: blur(3px);
+  -moz-filter: blur(3px);
+  filter: blur(3px); */
+
+  /* --- transition effect ---
+  -webkit-transition: all 0.5s ease; /* Safari
+  -ms-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  transition: all 0.5s ease; */
+
+}
+div#about div.floating-box p:hover {
+  color:rgba(148, 214, 10, 1);
+}
+
+.floating-box {
+  /* --- transition effect --- */
+  -webkit-transition: all 0.5s ease; /* Safari */
+  -ms-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  color:rgba(148, 214, 10, 1);
+  margin-top: 20px;
+  opacity: 1;
+}
+
+.floating-box:active, .floating-box:hover, .floating-box:focus,
+.floating-box img:active, .floating-box img:hover, .floating-box img:focus,
+.floating-box img.active, .floating-box.active {
+
+  opacity: 1 !important;
+  /* --- disable blur effect --- */
+  -webkit-filter: none !important;
+  -ms-filter: none !important;
+  -moz-filter: none !important;
+  filter: none !important;
+}
+
+/* =================================
+//////// Sección Filosofía /////////
+================================= */
+#filosophy {
+  /* ---- background filosophyBG ---- */
+  background: url('/assets/img/backgrounds/filosophyBG.png') top left no-repeat;
+  background-size: 110%;
+
+  /* ---- inner shadow ---- */
+  -webkit-box-shadow: inset 0px 12px 5px 0px rgba(0,0,0,0.19);
+  -moz-box-shadow: inset 0px 12px 5px 0px rgba(0,0,0,0.19);
+  box-shadow: inset 0px 12px 5px 0px rgba(0,0,0,0.19);
+}
+
+#filosophy h2  {
+  font-size: 6em;
+  margin-left: 13%;
+  margin-top: 2%;
+}
+
+div#filosophy p {
+  color: #fff;
+  font-size: 25px;
+  margin-top: 40px;
+  font-family: avenir-next-lt-pro-ultra-light;
+  font-weight: normal;
+
+}
+
+section.filosophy div#filosophy h3 {
+  font-family: "AvenirNextLTPro-UltLtCn";
+  font-size: 55px;
+  color: #779A0B;
+}
+#textosF {
+  margin-left: 19%;
+  margin-bottom: 0.5%;
+}
+
+/* =================================
+///////// Sección Valores //////////
+================================= */
+#values {
+  background: url('/assets/img/backgrounds/valoresBG.svg')  no-repeat;
+  background-size: 100%;
+  height: 600px;
+  background-color: #fff;
+  /* ---- box shadow ---- */
+  -webkit-box-shadow: 0px 12px 5px 0px rgba(0,0,0,0.19);
+  -moz-box-shadow: 0px 12px 5px 0px rgba(0,0,0,0.19);
+  box-shadow: 0px 12px 5px 0px rgba(0,0,0,0.19);
+}
+
+#values h2, #values h3 {
+  color: #8DBB00;
+}
+
+#values h2 {
+  font-family: avenir-next-lt-pro-ultra-light, serif;
+  font-size: 6em;
+  margin-top: 95px;
+  margin-left: 150px;
+}
+
+#values h3 {
+  font-family: "AvenirNextLTPro-UltLtCn";
+  font-size: 55px;
+}
+
+#values p {
+  color: #666666;
+  font-family: avenir-next-lt-pro-ultra-light, serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#textosV {
+  margin-left: 210px;
+}
+
+/* =================================
+///////// Sección Servicios //////////
+================================= */
+section#servicios{
+  background-color: #82BC00;
+  background-image: url('assets/img/backgrounds/honeycombservicios.png');
+  overflow: hidden;
+  height: 1080px;
+  margin-bottom: -20px;
+}
+.svcs_blur{
+	 filter: blur(4px);
+   -webkit-filter: blur(4px);
+}
+#servicios h2  {
+  font-size: 6em;
+  margin-left: 282px !important;
+  margin-top: 209px;
+  margin-bottom: -304px;
+  font-family: avenir-next-lt-pro-ultra-light, serif;
+  color: #779A0B;
+}
+.svc_btn{
+	padding: 0px 0px 0px 0px;
+    opacity: 0.3;
+    text-align: center;
+    width: 168px;
+    height: 150px;
+    border: 0px #FFF solid;
+}
+.svc_btn:hover, .svc_btn:active{
+	opacity: 1;
+}
+.svc_btn_img{
+	height: 200px;
+    width: 200px;
+    margin: -52px 0px 0px -17px;
+}
+.svc_btn_txt{
+	color:#FFF;
+	font-size: 1.3em;
+	font-family: avenir-next-lt-pro-ultra-light, serif;
+	max-width: 200px;
+	margin-top: -40px;
+}
+#svc_0{
+	position:absolute;
+	margin:372px 0px 0px 138px;
+}
+#svc_1{
+	position:absolute;
+	margin:372px 0px 0px 356px;
+}
+#svc_2{
+	position:absolute;
+	margin:564px 0px 0px 465px;
+}
+#svc_3{
+	position:absolute;
+	margin:752px 0px 0px 576px;
+}
+#svc_4{
+	position:absolute;
+	margin:563px 0px 0px 684px;
+}
+#svc_5{
+	position:absolute;
+	margin:564px 0px 0px 906px;
+}
+#svc_6{
+	position:absolute;
+	margin:547px 0px 0px 1124px;
+}
+#svc_7{
+	position:absolute;
+	margin:753px 0px 0px 1233px;
+}
+#svc_8{
+	position:absolute;
+	margin:753px 0px 0px 1451px;
+}
+#svc_9{
+	position:absolute;
+	margin:372px 0px 0px 1015px;
+}
+#svc_10{
+	position:absolute;
+	margin:184px 0px 0px 903px;
+}
+#svc_overlay{
+	background-color: rgba(40, 40, 40, 0.55);
+	background-image: url('/assets/img/backgrounds/doted_pattern.png');
+	background-size: 100%;
+	overflow: hidden;
+	text-align: center;
+}
+
+.overlay_open{
+  display: inline-block;
+	visibility: visible;
+	z-index: 9999;
+	height: 100%;
+	width: 100%;
+}
+.overlay_hidden{
+  display: none;
+	visibility: hidden;
+	z-index: -1;
+	height: 0px;
+	width: 0px;
+}
+#ovl_btnX{
+	height: 100px;
+	width: 100px;
+	float:right;
+}
+#overlay_hex_cont{
+	text-align: center;
+	text-align: -webkit-center;
+}
+.hex{
+    vertical-align: -webkit-baseline-middle !important;
+    height: 55.55%;
+    width: 25%;
+    margin: 13% auto auto auto;
+  	/*background-color: #82BC00;
+  	text-align: center;
+	-webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+	clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);*/
+
+}
+.ovl_svc_ttl{
+	margin-top: 16.5%;
+	margin-bottom: 3%;
+	font-size: 3em;
+	font-family: "AvenirNextLTPro-UltLtCn";
+    color: #82BC00;
+}
+.ovl_svc_img{
+	max-width: 300px;
+}
+.ovl_svc_txt{
+	max-width: 100%;
+	color:#fff;
+	font-size: 2em;
+	font-family: "AvenirNextLTPro-UltLtCn";
+	margin:auto auto 10px;
+	letter-spacing: 0.02em;
+}
+
+
+/* =================================
+///////// Sección Portafolio //////////
+================================= */
+#portafolio{
+	width: 1920px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #404040;
+
+  z-index: 1;
+  /* ---- box shadow ---- */
+  -webkit-box-shadow: 0px 12px 5px 0px rgba(0,0,0,0.19);
+  -moz-box-shadow: 0px 12px 5px 0px rgba(0,0,0,0.19);
+  box-shadow: 0px 12px 5px 0px rgba(0,0,0,0.19);
+}
+#portafolio h2  {
+  font-size: 6em;
+  margin-left: 50px !important;
+  margin-top: 20px;
+  font-family:avenir-next-lt-pro-ultra-light, serif;
+  color: #82BC00;
+}
+#portfolio_intro{
+	color:#FFF;
+	font-size: 1.3em;
+	font-family: avenir-next-lt-pro-ultra-light, serif;	;
+	max-width: 1400px;
+	border: 0px solid #fff;
+	margin: -93px 0px 0px 450px;
+}
+.carousel{
+	height: 900px;
+  background-color: #626262;
+  background-image: url("/assets/img/backgrounds/miniHexagon.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.carousel-indicators li{
+	border: 1px solid #82BC00;
+}
+
+/*.glyphicon-chevron-left, .glyphicon-chevron-right{
+	color: #FFFFFF !important;
+  /* --- transition effect ---
+  -webkit-transition: all 0.3s ease; /* Safari
+  -ms-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+} */
+a.carousel-control {
+    background-image: none !important;
+    font-size: 3em;
+    /* --- transition effect --- */
+    -webkit-transition: all 0.3s ease; /* Safari */
+    -ms-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    opacity: 0.5;
+}
+a.carousel-control:hover {
+    background-image: none !important;
+    color: #82BC00 !important;
+    opacity: 1;
+}
+
+/* PENDIENTE CORREGIR DETALLE DE LAS FLECHAS SLIDER */
+a.carousel-control:visited, a.carousel-control:active, a.carousel-control::after, a.carousel-control:checked {
+  opacity: 0.5 !important;
+}
+
+.arrowL {
+  width: 35px;
+  margin-top: 400px;
+
+  /* --- flip horizontal --- */
+  -moz-transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -o-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+
+  /* --- transition effect --- */
+  -webkit-transition: all 0.3s ease; /* Safari */
+  -ms-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+
+
+}
+.arrowR {
+  width: 35px;
+  margin-top: 400px;
+}
+
+.glyphicon-chevron-right:hover, .glyphicon-chevron-left:hover{
+	color: #82BC00 !important;
+}
+.item {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center !important;
+}
+.item img{
+	display: inline !important;
+}
+.carousel-indicators{
+	margin-top: 120px !important;
+	margin-bottom: -50px;
+  visibility: hidden;
+}
+/* =================================
+///////// Sección Social Hub //////////
+================================= */
+#socialhub{
+	vertical-align: text-top !important;
+	width: 1920px;
+	background-color: #82BC00;
+	border: 1px solid #82BC00;
+	background-image: url('/assets/img/backgrounds/social_hubBG.png');
+  /* ---- box shadow ---- */
+  -webkit-box-shadow: inset 0px 12px 5px 0px rgba(0,0,0,0.19);
+  -moz-box-shadow: inset 0px 12px 5px 0px rgba(0,0,0,0.19);
+  box-shadow: inset 0px 12px 5px 0px rgba(0,0,0,0.19);
+}
+
+#socialhub h2  {
+  font-size: 6em;
+  margin-left: 50px !important;
+  margin-top: 20px;
+  font-family:avenir-next-lt-pro-ultra-light, serif;
+  color: #779A0B;
+}
+#social_icon_bar, #social_title{
+	display: inline-block;
+	margin-left: 50px;
+	margin-right: 200px;
+}
+#social_icon_bar{
+	margin-top: 30px;
+}
+.social_icon{
+	height: 100px;
+	width: 100px;
+	background-size: cover;
+	opacity: 0.6;
+	display: inline-block;
+}
+.social_icon:hover{
+	opacity:1;
+}
+#icon_fb{
+	background-image: url('/assets/img/social_icons/face.png');
+}
+#icon_gl{
+	background-image: url('/assets/img/social_icons/gplus.png');
+}
+#icon_ig{
+	background-image: url('/assets/img/social_icons/insta.png');
+}
+#icon_in{
+	background-image: url('/assets/img/social_icons/linked.png');
+}
+#icon_tw{
+	background-image: url('/assets/img/social_icons/twitter.png');
+}
+#icon_yt{
+	background-image: url('/assets/img/social_icons/you.png');
+}
+#hub_display{
+	vertical-align: text-top !important;
+	text-align: center;
+	width: 100% !important;
+	padding: 30px 30px 30px 30px;
+	border: dotted 2px rgba(255, 255, 255, 0.0);
+  cursor:pointer;
+
+}
+#inner_hub{
+	width: 80% !important;
+	height: 10px;
+	padding: 10px 30px 10px 30px;
+	border: solid 2px silver;
+}
+.post{
+	vertical-align: text-top !important;
+	max-width: 35%;
+	padding: 20px 10px 20px 10px;
+	margin: 10px 10px 10px 10px;
+	background-color: #fff;
+	border-radius:5px;
+  cursor:pointer;
+  opacity: 0.8; /* semitransparent post container*/
+
+  /* ---- box shadow ---- */
+  -webkit-box-shadow: 0px 12px 5px 0px rgba(0,0,0,0.19);
+  -moz-box-shadow: 0px 12px 5px 0px rgba(0,0,0,0.19);
+  box-shadow: 0px 12px 5px 0px rgba(0,0,0,0.19);
+
+}
+
+/* =================================
+////// Floating contact Hub ////////
+================================= */
+#contact_container{
+	background-color: rgba(40, 40, 40, 0);
+    height: 1080px;
+    width: 10%;
+    /* float: right; */
+    z-index: 8888;
+    position: fixed;
+    margin: 0px 0px 0px 95%;
+    vertical-align: middle;
+}
+#contact_slit{
+    height: 233px;
+    width: 96px;
+    background-color: rgba(40, 40, 40, 1);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+	-webkit-box-shadow: 0px 12px 13px 0px rgba(0,0,0,0.19);
+    -moz-box-shadow: 0px 12px 13px 0px rgba(0,0,0,0.19);
+    box-shadow: 0px 12px 13px 0px rgba(0,0,0,0.19);
+    margin-top: 600px;
+}
+#contact_box{
+	background-image: url('/assets/img/backgrounds/doted_pattern.png');
+    background-color: rgba(40, 40, 40, 0.58);
+    border-radius: 5px;
+    box-shadow: 0px 6px 12px 1px;
+}
+#contact_slit h3{
+    font-size: 3em;
+    font-family: "AvenirNextLTPro-UltLtCn";
+    color: #779A0B;
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    margin-top: 62px;
+    margin-right: 32px;
+    margin-bottom: -10px;
+    margin-left: -111px;
+    -webkit-transform-origin: right bottom 0;
+    transform-origin: right bottom 0;
+}
+.contact_box_closed{
+    margin: 0% 0px 0px 0%;
+    position: absolute;
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
+    display: none;
+    z-index: -1;
+}
+.contact_box_open{
+    margin: 30px 0px 0px 10%;
+    position: fixed;
+    height: 950px;
+    width: 80%;
+    z-index: 9999;
+  }
+.contact_open{
+  height: 0px;
+  width: 0px;
+  visibility: hidden;
+  display: none;
+}
+.contact_component_open{
+  height: 85%;
+  margin: 1% 3%;
+  display: inline-block !important;
+  visibility: visible  !important;
+  background-color: rgba(0,150,0, 0.0);
+  padding: 1%;
+}
+.contact_component_closed{
+  height: 0px;
+  width: 0px;
+  display: none;
+  visibility: hidden;
+
+}
+.form_block{
+  height: 100%;
+  display: inline-block;
+  width: 60%;
+  margin-right: 5%;
+  vertical-align: middle;
+  text-align: center;
+  font-family: "AvenirNextLTPro-UltLtCn";
+  color: white;
+  font-size: 1.5em;
+}
+.contact_btn_visible{
+  height: 50px;
+  width: 50px;
+  margin: 5px 0px 0px 5px;
+  float:right;
+  visibility: visible;
+  display: inline-block;
+  opacity: 0.6
+}
+.contact_btn_visible:hover{
+  opacity: 1;
+
+}
+.contact_btn_hidden{
+  height: 0px;
+  width: 0px;
+  visibility: hidden;
+  display: none;
+}
+.contact-svc{
+  width: 2em;
+  height: 1.1em;
+  margin-left: -41px !important;
+}
+#contact_services{
+  margin-left: 4%;
+  text-align: left;
+  background-color: rgba(0,0,0, 0.45);
+  border-radius: 10px;
+}
+#contact_tag{
+    font-size: 5em;
+    font-family: "AvenirNextLTPro-UltLtCn";
+    color: #FFFFFF;
+    text-align: center;
+}
+.contact_tag_hidden{
+  visibility: hidden;
+}
+.contact_tag_visible{
+  visibility: visible;
+
+}
+.contact-h4{
+  font-size: 2em;
+  font-family: "AvenirNextLTPro-UltLtCn";
+  color: #FFFFFF;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.contact-send-btn{
+  height: 10%;
+   font-size: 2em;
+   font-family: "AvenirNextLTPro-UltLtCn";
+   color: #FFFFFF;
+   text-align: center;
+   background-color: #779A0B;
+   max-width: 30%;
+  text-transform: uppercase;
+
+}
+.checkbox label{
+  font-weight: lighter;
+  font-size:1.1em;
+  letter-spacing: 0.5px;
+}
+.input-lg{
+   font-size: 1.5em;
+   font-family: "AvenirNextLTPro-UltLtCn";
+
+}
+#contact_via_social{
+  width: 30%;
+  height: 100%;
+  display:inline-block;
+  vertical-align: middle;
+
+}
+#contact_via_fb:hover{
+  opacity: 1;
+}
+#contact_via_fb {
+  background-image: url("/assets/img/social_icons/face.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 40%;
+  margin: 40% 0px 5% 0px;
+  opacity: 0.4;
+}
+#contact_via_social h4{
+  height: 10%;
+   font-size: 3em;
+   font-family: "AvenirNextLTPro-UltLtCn";
+   color: #FFFFFF;
+   text-align: center;
+   vertical-align: text-top;
+}
+
+/* =================================
+//////////// Animations ////////////
+================================= */
+
+/* --- transition social icon, services btn, contact_via_social --- */
+.social_icon, .svc_btn {
+  /* --- transition effect --- */
+  -webkit-transition: all 0.5s ease; /* Safari */
+  -ms-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+/* --- Social Hub post container--- */
+.post {
+  /* --- transition effect --- */
+  -webkit-transition: all 0.7s ease; /* Safari */
+  -ms-transition: all 0.7s ease;
+  -moz-transition: all 0.7s ease;
+  transition: all 0.7s ease;
+}
+
+.post:hover {
+  /* ---- box shadow ---- */
+  opacity: 1;
+}/* --- ./Social Hub post container--- */
+
+
+/* --- Contact  pop up--- */
+.contact_btn_visible, #contact_via_fb {
+  /* --- transition effect --- */
+  -webkit-transition: all 0.3s ease; /* Safari */
+  -ms-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}/* --- ./Contact  pop up--- */
+
+/* =====================================================
+////////  DESKTOP 1440 * 900 RESOLUTION SCREEN /////////
+===================================================== */
+@media only screen and (max-width:1440px) and (orientation:landscape) {
+
+  /* --- Welcome Section --- */
+  #welcome {
+    /* ---- background panal1 ---- */
+    background-size: 36%;
+    width: 101.1%;
+  }
+
+  #welcome h2 {
+    margin-top: 50px;
+    font-size: 65px;
+    margin-bottom: 20px;
+  }
+
+  #lyon-text {
+    width: 100px;
+  }
+
+  #welcome p, div#filosophy p {
+    color: #fff;
+    font-size: 16px;
+    margin-top: -5px;
+  } /* --- ./Welcome Section --- */
+
+  /* --- About us section --- */
+  div#about {
+    height:600px;
+    width: 99.05%;
+  }
+
+  div#about div h2 {
+    font-size: 65px;
+    margin-top: 80px;
+  }
+
+  div#about div p {
+    font-size: 16px;
+  }
+    /* --- profile image hexagon -- */
+    #about-us {
+      margin-left: 450px;
+      margin-top: -485px;
+    }
+
+    .floating-box {
+      width: 80px;
+      margin-right: 170px;
+    }
+
+    .floating-box img {
+      width: 300px;
+      height: 370px;
+    }
+
+    div#about div.floating-box p {
+      font-size: 30px;
+      margin-left: 105px;
+    } /* --- ./profile image hexagon -- */
+
+    /* --- ./About us section --- */
+
+    /* --- Philosofy section --- */
+    #filosophy {
+      width: 99.05%;
+    }
+    #filosophy h2  {
+    font-size: 55px;
+    margin-left: 210px !important;
+    margin-top: 45px;
+    }
+
+    section.filosophy div#filosophy {
+      height:383px;
+    }
+
+    section.filosophy div#filosophy h3 {
+      font-family: "AvenirNextLTPro-UltLtCn";
+      font-size: 45px;
+    }
+    #textosF {
+      margin-left: 260px;
+  } /* --- ./Philosofy section --- */
+
+  /* --- Values section --- */
+  #values {
+  height: 600px;
+  width: 99.05%;
+  }
+
+  #values h2 {
+    font-size: 55px;
+    margin-top: 95px;
+    margin-left: 150px;
+  }
+
+  #values h3 {
+    font-size: 45px;
+  }
+
+  #values p {
+    font-size: 18px;
+  }
+
+  #textosV {
+    margin-left: 210px;
+  } /* --- ./Values section --- */
+
+  /* --- Services section --- */
+  #servicios h2 {
+    font-size: 55px;
+  }
+
+  section#servicios {
+    height: 830px;
+    background-size: 110%;
+    width: 101.1%;
+  }
+
+  .svc_btn_img {
+    width: 150px;
+    height: 150px;
+    margin: -52px 0px 6px -17px;
+  }
+
+    /* --- Social marketing --- */
+    #svc_10{
+    	margin:194px 0px 0px 750px;
+    } /* --- ./social marketing --- */
+
+    /* --- Game development --- */
+    #svc_9 {
+    margin: 350px 0px 0px 840px;
+    }/* --- ./game development --- */
+
+    /* --- Training & Education  --- */
+    #svc_8 {
+    margin: 680px 0px 0px 1205px;
+    } /* --- ./Training & Education  --- */
+
+    /* --- Web design & Development --- */
+    #svc_7 {
+    margin: 675px 0px 0px 1020px;
+    }/* --- ./Web design & Development --- */
+
+    /* --- Marketin & Production --- */
+    #svc_6 {
+    margin: 498px 0px 0px 930px;
+    } /* --- ./Marketin & Production --- */
+
+    /* --- Project Outsourcing --- */
+    #svc_5 {
+    margin: 514px 0px 0px 751px;
+    } /* --- ./Project Outsourcing --- */
+
+    /* --- IT consulting --- */
+    #svc_4 {
+    margin: 523px 0px 0px 569px;
+    } /* --- ./IT consulting --- */
+
+    /* --- Business optimization --- */
+    #svc_3 {
+    margin: 672px 0px 0px 471px;
+    } /* --- ./Business optimization --- */
+
+    /* --- Custome software --- */
+    #svc_2 {
+    margin: 514px 0px 0px 380px;
+    } /* --- ./Custome software --- */
+
+    /* --- Electronic ecommerce --- */
+    #svc_1 {
+    margin: 352px 0px 0px 291px;
+    } /* --- ./Electronic ecommerce --- */
+
+    /* --- Image & identity --- */
+    #svc_0 {
+    margin: 352px 0px 0px 102px;
+    } /* --- ./Image & identity --- */
+
+  /* --- Services section --- */
+
+  /* --- Portafolio section --- */
+  #portafolio {
+    width: 100.1%;
+  }
+
+  #portafolio h2 {
+    font-size: 55px;
+  }
+
+  .carousel {
+    height: 660px;
+  }
+
+  .arrowR, .arrowL {
+    width: 25px;
+    margin-top: 300px;
+  }
+
+  .carousel-inner>.item>a>img, .carousel-inner>.item>img,
+  .img-responsive, .thumbnail a>img, .thumbnail>img {
+    max-width: 90%;
+  } /* --- ./Portafolio section --- */
+
+  /* --- Social Hub section --- */
+  #socialhub {
+    width: 100.1%;
+    background-size: 100%;
+  }
+
+  #socialhub h2 {
+    font-size: 55px;
+  }
+
+  .social_icon {
+    height: 70px;
+    width: 70px;
+  }
+
+  #hub_display{
+  	vertical-align: text-top !important;
+  	text-align: center;
+  	width: 100% !important;
+  	padding: 25px 25px 25px 25px;
+  	border: dotted 2px rgba(255, 255, 255, 0.0);
+    cursor:pointer;
+
+  }
+  #inner_hub{
+  	width: 40% !important;
+  	height: 10px;
+  	padding: 10px 25px 10px 25px;
+  	border: solid 2px silver;
+  }
+  .post{
+  	vertical-align: text-top !important;
+  	max-width: 25%;
+  	padding: 20px 10px 20px 10px;
+  	margin: 10px 10px 10px 10px;
+  	background-color: #fff;
+  	border-radius:5px;
+    cursor:pointer;
+    opacity: 0.8; /* semitransparent post container*/
+} /* --- ./Social Hub section --- */
+
+  /* --- Contact button --- */
+  #contact_slit {
+    height: 200px;
+    width: 72px;
+    margin-top: 400px;
+  }
+
+  #contact_slit h3 {
+    font-size: 2.5em;
+    padding-top: -20px;
+  }
+
+  #slit_tag {
+    padding-right: 100px;
+  }
+
+  #contact_container{
+      height: 830px;
+      width: 0%;
+      /* float: right; */
+      margin: 0px 0px 0px 95%;
+      vertical-align: middle;
+  }
+
+
+.fb_iframe_widget{
+  max-width: -webkit-fill-available;
+  max-width: max-content;
+}
+
+}

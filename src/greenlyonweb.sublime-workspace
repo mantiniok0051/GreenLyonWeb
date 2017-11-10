@@ -1,0 +1,1179 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"win",
+				"window_width	parameter"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"image",
+				"imagepath"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"backgro",
+				"backgrounds"
+			],
+			[
+				"bacak",
+				"background-repeat"
+			],
+			[
+				"socia",
+				"social_icons"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"l",
+				"lighter"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"Fon",
+				"font-style"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"On",
+				"OnDestroy	alias"
+			],
+			[
+				"ng",
+				"ng2-component	Angular 2 Component Snippet"
+			],
+			[
+				"ng2",
+				"ng2-import	Angular 2 Import Snippet"
+			],
+			[
+				"bak",
+				"background-size"
+			],
+			[
+				"top",
+				"text-top"
+			],
+			[
+				"class",
+				"classList	property"
+			],
+			[
+				"get",
+				"getElementsByClassName	method"
+			],
+			[
+				"do",
+				"document	var"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"zin",
+				"z-index"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"cla",
+				"classList	property"
+			],
+			[
+				"te",
+				"text-top"
+			],
+			[
+				"var",
+				"vertical-align"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"MAR",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"particles",
+				"particles-js"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"BOR",
+				"border-top"
+			],
+			[
+				"querySelec",
+				"querySelectorAll"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"percentage",
+				"percentageLabels"
+			],
+			[
+				"getPercenta",
+				"getPercentages"
+			],
+			[
+				"calculate",
+				"calculatePercentages"
+			],
+			[
+				"getPercentag",
+				"getPercentage"
+			],
+			[
+				"transaction",
+				"transactionID"
+			],
+			[
+				"i",
+				"ife	if … else"
+			],
+			[
+				"transactions",
+				"transactionsContainer"
+			],
+			[
+				"DOMstring",
+				"DOMstrings"
+			],
+			[
+				"timer",
+				"timers.clearInterval(timer);"
+			],
+			[
+				"col",
+				"col-6 	Bootstrap 4 Class"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"lis",
+				"list-unstyled 	Bootstrap 4 Class"
+			],
+			[
+				"bg-",
+				"bg-faded 	Bootstrap 4 Class"
+			],
+			[
+				"answer",
+				"answers"
+			],
+			[
+				"adventure",
+				"adventure_party"
+			],
+			[
+				"log",
+				"console.log"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"bg",
+				"bg-success 	Bootstrap 4 Class"
+			],
+			[
+				"pan",
+				"panel-danger 	Bootstrap 3 Class"
+			],
+			[
+				"li",
+				"list	list"
+			],
+			[
+				"height",
+				"p_height"
+			],
+			[
+				"exit",
+				"process.exit"
+			],
+			[
+				"src",
+				"script	Tag"
+			],
+			[
+				"exports",
+				"module.exports"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"mailOp",
+				"mailOptions_html"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"bcak",
+				"background-size"
+			],
+			[
+				"rem",
+				"removeChild	method"
+			],
+			[
+				"HT",
+				"HTMLMapElement	interface"
+			],
+			[
+				"M",
+				"AgmMap	alias"
+			],
+			[
+				"a",
+				"setAttributeNodeNS	method"
+			],
+			[
+				"Ht",
+				"HTMLElement	interface"
+			],
+			[
+				"doc",
+				"Document	interface"
+			],
+			[
+				"Map",
+				"MapTypeStyle	alias"
+			],
+			[
+				"sli",
+				"slideToRight	function"
+			],
+			[
+				"Host",
+				"HostBinding	alias"
+			],
+			[
+				"imp",
+				"implements	keyword"
+			],
+			[
+				"u",
+				"url	property"
+			],
+			[
+				"na",
+				"navigate	method"
+			],
+			[
+				"ng2-im",
+				"ng2-import	Angular 2 Import Snippet"
+			],
+			[
+				"S",
+				"snapshot	property"
+			],
+			[
+				"ac",
+				"actual_route	property"
+			],
+			[
+				"con",
+				"constructor	keyword"
+			],
+			[
+				"ng2-",
+				"ng2-import	Angular 2 Import Snippet"
+			],
+			[
+				"Rou",
+				"Router	alias"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"URL",
+				"URLSearchParams	interface"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"ngOn",
+				"ngOnInit	method"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"set",
+				"setInterval	function"
+			],
+			[
+				"ngO",
+				"ngOnInit	method"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"pri",
+				"private	keyword"
+			],
+			[
+				"contac",
+				"contac.service.component	script"
+			],
+			[
+				"bck",
+				"background-size"
+			],
+			[
+				"BAC",
+				"background-position"
+			],
+			[
+				"BACK",
+				"background-size"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"curr",
+				"currentItem	property"
+			],
+			[
+				"F",
+				"fullImageViewOpen	property"
+			],
+			[
+				"hid",
+				"hidden-md 	Bootstrap 3 Class"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"hidd",
+				"hidden-md 	Bootstrap 3 Class"
+			],
+			[
+				"title",
+				"title	Attr"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"backg",
+				"backgrounds"
+			],
+			[
+				"hi",
+				"hidden-sm 	Bootstrap 3 Class"
+			],
+			[
+				"alig",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 25057,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/app.component.html",
+			"settings":
+			{
+				"buffer_size": 21648,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/*\n                    hhhhhhhhhhhhhhhhhhhhhhhhyyhhhhhhhhhhhhhhhhhhhhhhhh\n                    hhhhhhhhhhhhhhhhhhhhyso+//+osyhhhhhhhhhhhhhhhhhhhh\n                    hhhhhhhhhhhhhhhhhyo+//////////+oyhhhhhhhhhhhhhhhhh\n                    hhhhhhhhhhhhhyso+////////////////+osyhhhhhhhhhhhhh\n                    hhhhhhhhhhys+////////////////////////+syhhhhhhhhhh\n                    hhhhhhyso+//////////////////////////////+osyhhhhhh\n                    hhhhyo//////////:-`.:////////:.`-://////////oyhhhh\n                    hhhhsso++////-.       .-//-.       .-////++++shhhh\n                    hhhhsssssoo::////////`      `////////::++++++shhhh\n                    hhhhssssssso+++osssss:      :ssssso++++++++++shhhh\n                    hhhhsssssssso/``....++      ++....` :++++++++shhhh\n                    hhhhsssssssssso.     /`    `/     .++++++++++shhhh\n                    hhhhssssssssssso      .::::.      +++++++++++shhhh\n                    hhhhssssssssssss       `++`       +++++++++++shhhh\n                    hhhhssssssssssss        ++        +++++++++++shhhh\n                    hhhhssssssssssss.      `++`      .+++++++++++shhhh\n                    hhhhssssssssssssso:``..`  `..``:+++++++++++++shhhh\n                    hhhhssssssssssssssss+        /+++++++++++++++shhhh\n                    hhhhyssssssssssssssss-      -++++++++++++++ooyhhhh\n                    hhhhhhhyssssssssssssso.    `++++++++++++osyhhhhhhh\n                    hhhhhhhhhhyysssssssssssso+++++++++++oosyhhhhhhhhhh\n                    hhhhhhhhhhhhhhyssssssssso++++++++osyhhhhhhhhhhhhhh\n                    hhhhhhhhhhhhhhhhhyyssssso+++++osyhhhhhhhhhhhhhhhhh\n                    hhhhhhhhhhhhhhhhhhhhhysso+osyyhhhhhhhhhhhhhhhhhhhh\n                    hhhhhhhhhhhhhhhhhhhhhhhhyyhhhhhhhhhhhhhhhhhhhhhhhh\n\n\n  ===========================================================================================\n  ||  Version: 1.0                                                                         ||\n  ||  Creation date: August 2017                                                           ||\n  ||  Autor: Created by Green Lyon                                                         ||\n  ||  Owner: Green Lyon                                                                    ||\n  ||  Description: Base HTML code for Green Lyon Website                                   ||\n  ||  Last change: Creation Ver 1.0 August 2017 Green Lyon > Chrystian, Leonardo & Mariano ||\n  ===========================================================================================\n\n\n*/\n\n// =================== app.component  ===================\n\nimport { Component, ViewChild } from '@angular/core';\nimport { NgForm, FormBuilder, FormGroup, Validators } from '@angular/forms';\n\nimport { Message } from './message';\nimport {PostService} from './contact.component.service';\n\n//======= Angular Google reCapta V2 ==============\n//import { ReCaptchaComponent } from 'angular2-recaptcha';\n\n@Component({\n  selector: 'app-root',\n  templateUrl: './app.component.html',\n  styleUrls: ['./app.component.css']\n})\nexport class AppComponent {\n\n\n    /* --- Textos Bienvenido --- */\n      public tituloBienvenido: string = \"BIENVENIDO\";\n        public textoB1 : string= \" es una empresa dedicada a la innovación digital y tecnológica de las empresas, desarrollamos soluciones creativas y de alto impacto, basadas en el estudio y análisis de mercados, las las empresas y sus objetivos.\";\n        public textoB2: string = \"Contamos con talentosos colaboradores especializados en áreas clave como; marketing, diseño gráfico, producción de software, aplicaciones móviles, sitios web, implementación de tecnologías,  inteligencia de negocios, entre otros.\";\n        public textoB3: string = \"Contáctanos para una evaluación sin compromiso.\";\n\n    /* --- Textos Nosotros --- */\n      public tituloNosotros: string = \"NOSOTROS\";\n      public textoN1: string = \"Somos un grupo de profesionales multidisciplinarios, apasionados por el éxito de nuestros clientes y la satisfacción de sus necesidades y clientes. Sabemos que la competitividad, la innovación y la calidad son cualidades de gran valor y difíciles de desarrollar, nosotros tenemos los medios y el compromiso con cada uno de nuestros clientes de guiarlos y apoyarlos en cada paso del ciclo de mejora continua de alta rentabilidad.\";\n\n    /* --- Textos Filosofía --- */\n      public tituloFilosofia: string =\"FILOSOFÍA\";\n        public subtituloF1: string = \"OBJETIVOS\";\n        public subtituloF2: string = \"MISIÓN\";\n        public subtituloF3: string = \"VISIÓN\";\n          public textoF1: string = \"• Detonar negocios altamente rentables y competitivos a corto, mediano y largo plazo.\";\n          public textoF2: string = \"• Facilitar la transición orgánica al uso de mejores prácticas y estándares mundiales.\";\n          public textoF3: string = \"• Generar el más alto grado de identificación y lealtad hacia tu marca.\";\n          public textoF4: string = \"Desarrollar los mercados y economías a través de modelos de negocio con alto impacto, sustentados en las mejores prácticas, tecnologías confiables y estrategias disruptivas que sean capaces de romper con los paradigmas y cambiar el panorama socioeconómico.\";\n          public textoF5: string = \"Ser reconocidos como la consultora responsable de desarrollar el mayor número de empresas de alto impacto en México y el mundo. Capaces de rentabilizar cualquier proyecto y/o idea de negocios.\";\n\n    /* --- Textos Valores --- */\n      public tituloValores: string = \"VALORES\";\n        public subtituloV1: string = \"LIDERAZGO\";\n        public subtituloV2: string = \"SERVICIO\";\n        public subtituloV3: string = \"INNOVACIÓN\";\n          public textoV1: string = \"Comprendemos que  la mejor forma de mantenerse al frente de cualquier industria, es a través de la innovación continua de las organizaciones y sus integrantes.\";\n          public textoV2: string = \"Para nosotros,  el servicio y atención a nuestros clientes y sus necesidades está por encima de todo.\";\n          public textoV3: string = \"Desarrollamos soluciones que cambian el estatus quo tomando ventaja de nuevos mercados y oportunidades antes descuidados.\";\n\n\n//  ====================================Sección sercvicios====================================  //\n    /* --- Textos Servicios --- */\n    public tituloServicios:string =  \"SERVICIOS\";\n      public ser_0 = [\"CORPORATE IMAGE & IDENTITY\", \"/assets/img/services/tm.png\",\"Trabajaremos para diseñar y desarrollar tu marca para que proyecte una imagen atractiva a tu mercado y acorde a tu filosofía e identidad.\" ];\n      public ser_1 = [\"ELECTRONIC COMMERSE\", \"/assets/img/services/tag_e.png\", \"Contamos con un equipo de expertos que te guiará pasa a paso para poner tu comercio electrónico en marcha de forma fácil, rápida y segura.\"];\n      public ser_2 = [\"CUSTOM SOFTWARE\", \"/assets/img/services/software.png\", \"Contamos con un equipo de expertos que te guiará pasa a paso para poner tu comercio electrónico en marcha de forma fácil, rápida y segura.\"];\n      public ser_3 = [\"BUSINESS OPTIMIZATION\", \"/assets/img/services/lightbulb1.png\", \"Ponemos a tu disposición una amplia red de colaboradores y expertos que permitan optimizar tus procesos y estrategias para obtener los mejores resultados.\"];\n      public ser_4 = [\"IT CONSULTING\", \"/assets/img/services/it.png\", \"Generamos valor para tu empresa, convirtiéndola en un negocio inteligente por medio de la implementación de IT y herramientas para análisis y desarrollo empresarial.\"];\n      public ser_5 = [\"PROJECT OUTSURCING\", \"/assets/img/services/outsourcing.png\", \"Te ayudamos a desarrollar tus proyectos a través de la tercerización de tareas y procesos...\"];\n      public ser_6 = [\"CONTENT MARKETING & PRODUCTION\", \"/assets/img/services/shareble.png\", \"Diseño, producción y optimización de contenidos multimedia y estrategia, para plataformas electrónicas con fines promocionales, educacionales, inducción, presentaciones, etc.\"];\n      public ser_7 = [\"WEB DESIGN & DEVELOPMENT\", \"/assets/img/services/devices.png\", \"Diseñamos sitios web innovadores, responsivos y altamente funcionales y aplicaciones IOs y Android.\"];\n      public ser_8 = [\"TRAINING & EDUCATION\", \"/assets/img/services/brain.png\", \"Desarrollamos  materiales de aprendizaje para tu empresa u organización además   de impartir cursos de capacitación en herramientas tecnológicas de la actualidad como Google for Business.\"];\n      public ser_9 = [\"GAME DEVELOPMENT\", \"/assets/img/services/controler.png\", \"Plasmamos tus ideas en un mini-juego en 2D para Android & IOS para darte a conocer de una manera original dentro de nuevos mercados.\"];\n      public ser_10 = [\"SOCIAL MARKETING\", \"/assets/img/services/mkt2.png\", \"Promovemos y administramos las redes sociales de tu empresa para mantener contacto continuo y de calidad con tus clientes para que te adaptes mejor a sus necesidades.\"];\n    public svcdetails = [\n             this.ser_0, this.ser_1, this.ser_2, this.ser_3, this.ser_4, this.ser_5, this.ser_6, this.ser_7, this.ser_8, this.ser_9, this.ser_10\n\n    ];\n\n\n  /* --- /Textos Servicios --- */\n\n  /* --- Miembros Servicios --- */\n    public ovl_btnX:string = \"\";\n    public svc_overlay:string = \"overlay_hidden\";\n    public ovl_svc_img  = \"\";\n    public ovl_svc_txt:string  = \"\";\n    public ovl_svc_ttl:string  = \"\";\n\n    public svc_details(service:number){\n      let svc = this.svcdetails[service];\n      this.ovl_svc_img = svc[1];\n      this.ovl_svc_txt = svc[2];\n      this.ovl_svc_ttl = svc[0];\n      this.ovl_btnX = \"/assets/img/services/close.png\";\n      let svcs = document.getElementsByClassName(\"svc_btn\");\n        for (var i = svcs.length - 1; i >= 0; i--) {\n          svcs[i].classList.toggle(\"svcs_blur\",true)\n        }\n      this.svc_overlay = \"overlay_open\";\n    }\n    public close_svc_overlay(){\n      this.ovl_svc_img = \"\";\n      this.ovl_svc_txt = \"\";\n      this.ovl_svc_ttl = \"\";\n      this.svc_overlay = \"overlay_hidden\";\n      let svcs = document.getElementsByClassName(\"svc_btn\");\n        for (var i = svcs.length - 1; i >= 0; i--) {\n          svcs[i].classList.toggle(\"svcs_blur\",false)\n        }\n    }\n\n  /* --- /Métodos Servicios --- */\n\n  /* --- Textos Portfolio --- */\n  public tituloPortfolio:string =\"PORTFOLIO\";\n    public texto1P:string = \"Estos son algunos de los proyectos y soluciones más recientes que hemos desarrollado   para nuestros clientes.\"\n  /* --- Textos Portfolio --- */\n\n\n\n  /* --- Textos social hub --- */\n   public tituloSocialHub:string = \"SOCIAL HUB\";\n\n   public fb_video_width:string= \"90%\";\n  /* --- Textos social hub --- */\n\n\n  public showContactArea(){\n    document.querySelector('#contact_container').classList.toggle('contact_open', true);\n    document.querySelector('#contact_box').classList.toggle('contact_box_closed', false);\n    document.querySelector('#contact_box').classList.toggle('contact_box_open', true);\n    document.querySelector('#contact_component').classList.toggle('contact_component_closed', false);\n    document.querySelector('#contact_component').classList.toggle('contact_component_open', true);\n    document.querySelector('#close_contact_btn').classList.toggle('contact_btn_hidden', false);\n    document.querySelector('#close_contact_btn').classList.toggle('contact_btn_visible', true);\n    document.querySelector('#contact_tag').classList.toggle('contact_tag_hidden', false);\n    document.querySelector('#contact_tag').classList.toggle('contact_tag_visible', true);\n    document.querySelector('#contact_box').classList.toggle('animated', true);\n    document.querySelector('#contact_box').classList.toggle('fadeInRight', true);\n\n  }\n  public hideContactArea(){\n    document.querySelector('#contact_container').classList.toggle('contact_open', false);\n    document.querySelector('#contact_box').classList.toggle('contact_box_open', false);\n    document.querySelector('#contact_box').classList.toggle('contact_box_closed', true);\n    document.querySelector('#contact_component').classList.toggle('contact_component_open', false);\n    document.querySelector('#contact_component').classList.toggle('contact_component_closed', true);\n    document.querySelector('#close_contact_btn').classList.toggle('contact_btn_visible', false);\n    document.querySelector('#close_contact_btn').classList.toggle('contact_btn_hidden', true);\n    document.querySelector('#contact_tag').classList.toggle('contact_tag_visible', false);\n    document.querySelector('#contact_tag').classList.toggle('contact_tag_hidden', true);\n    document.querySelector('#contact_box').classList.toggle('animated', false);\n    document.querySelector('#contact_box').classList.toggle('fadeInRight', false);\n\n  }\n\n  public animateCloseContact($event){\n    if($event.type == 'mouseover'){\n      document.querySelector(\"#close_contact_btn\").classList.toggle(\"animated\",true);\n      document.querySelector(\"#close_contact_btn\").classList.toggle(\"flash\",true);}\n    else if($event.type == 'mouseout'){\n      document.querySelector(\"#close_contact_btn\").classList.toggle(\"animated\",false);\n      document.querySelector(\"#close_contact_btn\").classList.toggle(\"flash\",false);}\n    else{console.log($event.type);\n    }\n  }\n\n  public animateContactSlit($event){\n    if($event.type == 'mouseover'){\n      document.querySelector(\"#contact_slit\").classList.toggle(\"animated\",true);\n      document.querySelector(\"#contact_slit\").classList.toggle(\"headShake\",true);}\n    else if($event.type == 'mouseout'){\n      document.querySelector(\"#contact_slit\").classList.toggle(\"animated\",false);\n      document.querySelector(\"#contact_slit\").classList.toggle(\"headShake\",false);}\n    else{console.log($event.type);\n    }\n  }\n\n  public updateVideoWidth(window_width:number){\n    let value = window_width * 0.3;\n  }\n}\n",
+			"file": "app/app.component.ts",
+			"file_size": 13717,
+			"file_write_time": 131534772759460335,
+			"settings":
+			{
+				"buffer_size": 13733,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Contro",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 60.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Onix/web/nix/wp-config.php",
+		"/C/Users/MARIANO/Downloads/wp-config (1).php",
+		"/C/Users/MARIANO/wordpress/ONIX/nix_backups/XXCDFF/content/_wp-config.php",
+		"/C/Users/MARIANO/wordpress/ONIX/nix_vm2/php.errors",
+		"/C/Users/MARIANO/wordpress/ONIX/nix_vm2/php_errors.log",
+		"/C/Users/MARIANO/wordpress/ONIX/nix_backups/XXCDFF/content/wp-settings.php",
+		"/C/Users/MARIANO/wordpress/ONIX/nix_vm/wp-config.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/products.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/product-functions.php",
+		"/C/Users/MARIANO/Desktop/nix.csv",
+		"/C/Users/MARIANO/wordpress/ONIX/nix_vm/logs/php.errors",
+		"/C/Users/MARIANO/wordpress/ONIX/nix_vm/logs/cgi.log",
+		"/C/Users/MARIANO/wordpress/ONIX/nix_vm/logs/php_errors.log",
+		"/C/Users/MARIANO/wordpress/wordpress3822EN/wp-config.php",
+		"/C/xampp/htdocs/Onix/logs/php.errors",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/_display-items-functions.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-admin/post.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-admin/admin-ajax.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-admin/admin-post.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-admin/customize.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-image-hover-lite/includes/redux-framework/ReduxCore/framework.php",
+		"/C/Users/MARIANO/wordpress/wordpress482MX/wp-image-hover-lite/includes/redux-framework/ReduxCore/extensions/customizer/assets/js/customizer.js",
+		"/C/Users/MARIANO/wordpress/wordpress482MX/wp-image-hover-lite/includes/redux-framework/ReduxCore/extensions/customizer/assets/js/jquery.livequery.js",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-image-hover-lite/includes/redux-framework/ReduxCore/extensions/customizer/extension_customizer.css",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/coupon-list-table-class.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/display-items-functions.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/themes/enfold/template-archives.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/product-variation-list-table.class.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/product-variations.page.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/product-variations-manage.page.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/product-variations-page.class.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/product-variations-setup.page.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/purchase-log-action-links.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/purchase-log-list-table-class.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/save-data.functions.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/tax_and_shipping.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/updating-functions.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/walker-variation-checklist.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/settings-tabs/admin.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/settings-tabs/checkout.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/settings-tabs/gateway.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/settings-tabs/general.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/settings-tabs/import.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/settings-tabs/marketing.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/settings-tabs/shipping.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/settings-tabs/taxes.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/media.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/helpers/template-tags/product.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/classes/controller.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/ajax-and-init.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-includes/product-template.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/admin-form-functions.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/admin.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/ajax.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/helpers/template-tags/general.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/helpers/template-tags/form.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/mvc/controllers/register.php",
+		"/C/xampp/htdocs/greenlyon/GreenLyonWeb/src/app/app.component.html",
+		"/C/xampp/htdocs/greenlyon/GreenLyonWeb/src/app/contact.component.html",
+		"/C/xampp/htdocs/greenlyon/GreenLyonWeb/src/app/app.component.ts",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/theming/template-parts/loop-products.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/init.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/mvc/controllers/single.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/helpers/product.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-core/js/wp-e-commerce.js",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/helpers/widgets.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/helpers/template-tags/url.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/helpers/template-tags/taxonomy.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/helpers/template-tags/common.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-core/js/tinymce3/window.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/helpers/form.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/classes/template-engine.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/theming/template-parts/product-pagination.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-core/js/ui.droppable.js",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/admin.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/theming/template-parts/register.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-core/js/tinymce3/tinymce.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-core/wpsc-includes.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-core/wpsc-constants.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-core/wpsc-functions.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-single_product.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/purchase-logs-page/item-details.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-includes/ajax.functions.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/js/set-post-thumbnail.js",
+		"/C/xampp/htdocs/Onix/web/nix/wp-admin/includes/post.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-includes/form-display.functions.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/js/product-variations.js",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-products_page.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-includes/product.class.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-includes/mimetype.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-includes/misc.functions.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-includes/image_processing.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/db-upgrades/views/main.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/classes/product-variations.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v1/templates/wpsc-single_product.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v2/theming/template-parts/product-excerpt.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/js/variations.js",
+		"/C/xampp/htdocs/Onix/web/nix/wp-admin/post-new.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/js/media.js",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-easycart-data/design/layout/base-responsive-v2/ec_product_details_page.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/display-options-settings.page.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/the-events-calendar/src/views/modules/meta/details.php",
+		"/C/xampp/phpMyAdmin/libraries/config.default.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/themes/enfold/wpml-config.xml",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-widgets/admin_menu_widget.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-widgets/tagging_functions.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/display-sales-logs.php",
+		"/C/xampp/htdocs/cibussolutions/wp-content/themes/singlepage/MODS/style.css",
+		"/C/xampp/htdocs/cibussolutions/wp-content/themes/singlepage/MODS/theme-setup.php",
+		"/C/xampp/htdocs/Onix/web/nix/wp-content/plugins/wp-e-commerce/wpsc-admin/db-upgrades/routines/1.php",
+		"/C/xampp/htdocs/cibussolutions/wp-content/themes/singlepage/template-home.php",
+		"/C/xampp/htdocs/cibussolutions/wp-content/themes/singlepage/MODS/template-home.php",
+		"/C/xampp/htdocs/cibussolutions/wp-content/themes/singlepage/css/bootstrap.css",
+		"/C/xampp/htdocs/cibussolutions/wp-content/themes/singlepage/options.php",
+		"/C/xampp/htdocs/cibussolutions/wp-content/themes/singlepage/header.php",
+		"/C/xampp/htdocs/cibussolutions/wp-content/themes/singlepage/css/admin.css",
+		"/C/Users/MARIANO/Downloads/wp-config.php",
+		"/C/xampp/htdocs/_cibussolutions/wp-content/uploads/2017/08/ggg.html",
+		"/C/xampp/htdocs/cibussolutions/wp-content/themes/singlepage/home.php",
+		"/C/xampp/htdocs/cibussolutions/wp-content/themes/singlepage/index.php",
+		"/C/xampp/htdocs/cibussolutions/wp-content/themes/singlepage/images/iconos/belt.svg",
+		"/C/xampp/htdocs/cibussolutions/wp-content/themes/singlepage/images/iconos/engine.svg",
+		"/C/xampp/htdocs/cibussolutions/wp-content/themes/singlepage/images/iconos/workers-team.svg",
+		"/C/xampp/htdocs/cibussolutions/wp-content/themes/singlepage/images/iconos/speech-bubble.svg",
+		"/C/xampp/htdocs/_cibussolutions/wp-content/uploads/2017/08/Iconos/speech-bubble.svg",
+		"/C/xampp/htdocs/_cibussolutions/wp-content/uploads/2017/08/Iconos/workers-team.svg",
+		"/C/xampp/htdocs/greenlyon/GreenLyonWeb/src/styles.css",
+		"/C/xampp/htdocs/greenlyon/GreenLyonWeb/src/ScrollMagic Demos - Animation Trigger"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"slit",
+			"auto_update_theme",
+			"CSS",
+			"4.8",
+			"customizer",
+			"custom",
+			"8",
+			"gallery",
+			"avia-button avia-icon_select-yes avia-color-pink avia-size-small avia-position-left ",
+			"wpsc-manage-product-gallery",
+			"wpsc-manage",
+			"wpsc-",
+			"wpsc-manage-",
+			"wpsc-manage-product-gallery",
+			"wpsc",
+			"galle",
+			"GALL",
+			"wpsc",
+			"wpsc-manage",
+			"wpsc-manage-product-gallery",
+			"button button-small thickbox",
+			"$cfg['ExecTimeLimit'] = 600;",
+			"wpsc_product_details_forms",
+			"wpsc-product",
+			".section-content",
+			"site-",
+			"#23",
+			".cur",
+			"#",
+			"#23",
+			"#23dd91",
+			"23dd91",
+			"23dd",
+			"#featured-template",
+			"#featured-template .sub_nav li.cur a",
+			" #23dd91 !important;",
+			"#featured",
+			"#23dd91 !important;",
+			" #23dd91 !important;",
+			"color: #23dd91 !important;",
+			"fill=\"#6DA018\"",
+			"fill=\"#6da018\"",
+			"section-ima",
+			"overlay_open",
+			"OVERLAY_OPEN",
+			".cur",
+			"onex",
+			".cur",
+			"cur",
+			"#featured",
+			"#featured-template",
+			"#featured-template .sub_nav li.cur a",
+			"10443",
+			"pJS",
+			"pJS_canvas_class",
+			"(pJS_canvas_class",
+			"$border",
+			"color",
+			"this.",
+			"console.log",
+			"{\n",
+			"-->\n",
+			"final-score",
+			"final",
+			"Aurora",
+			"service",
+			"about-logo",
+			"about-logo-color",
+			"about-li",
+			"384px",
+			"768px",
+			"1366px",
+			"contact-left-top",
+			"204px",
+			"brands-logo",
+			"320px",
+			"640px",
+			"1024px",
+			"contact-form",
+			"kreis-con",
+			"contact-logo-mob",
+			"contact-logo",
+			"contact-right-c",
+			"contact-left-",
+			"gallery-album",
+			"side",
+			"brand-btn-sm",
+			"brand-icon",
+			"delatail-l",
+			"hidden-sm",
+			"brands-logo",
+			"services-title-ipadv",
+			"about-foo",
+			"brands",
+			"about-l",
+			"gallery-al",
+			"gally-al",
+			"navbar-",
+			"navbar-r",
+			"galle",
+			"services-legen",
+			"tall",
+			"contact-map",
+			"contact-info-data",
+			"contact-info-mob",
+			"contact-map-mob",
+			"contact-logo-mob",
+			"contact-left-top",
+			"icon-resize-full-screen",
+			"triger",
+			"gallery-album",
+			"details-text",
+			"btn-sm",
+			"brands-logo",
+			"brands-lo",
+			"contact-left-bo",
+			"service",
+			"brands-logo",
+			"services-leg",
+			"service",
+			"services-title",
+			"about-lo",
+			"1366px",
+			"768px",
+			"catalog-d",
+			"details-close-c",
+			"contact-q",
+			"service"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fill=\"#FFFFFF\"",
+			"15px",
+			"public ",
+			"360px",
+			"720px",
+			"1280px",
+			"244px",
+			"360px",
+			"720px",
+			"1152px",
+			"1024px",
+			"640px",
+			"506px",
+			"1800px",
+			"1013px",
+			"333px",
+			"667px",
+			"375px",
+			"667px",
+			"736px",
+			"414px",
+			"736px",
+			"1366px",
+			"1024px",
+			"512px",
+			"1024px",
+			"384px",
+			"768px",
+			"1366px",
+			"400px",
+			"1440px",
+			"800px",
+			"483px",
+			"217px",
+			"196px",
+			"207px",
+			"456px",
+			"450px",
+			"900px",
+			"1600px",
+			"400px",
+			"1440px",
+			"800px",
+			"_",
+			"#D91C5C",
+			"\"",
+			"oldSelected",
+			"Akzidenz-Grotesk",
+			"img/photo/01.jpg",
+			"document"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24862,
+								24862
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 22387.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/app.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21273,
+								21273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9708.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/app.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13726,
+								13726
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/ArcticTypescript/theme/Typescript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1328.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.163733974359,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 30.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 69.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 30.0
+	},
+	"output.typescript_output":
+	{
+		"height": 104.0
+	},
+	"project": "greenlyonweb.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
