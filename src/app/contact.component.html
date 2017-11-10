@@ -1,0 +1,117 @@
+<!-- ==== Contact floating slit ==== -->
+
+          <form class="form_block" [formGroup]="contact_form" (ngSubmit)="onSubmit()">
+              <div class="form-group col-xs-12 ">
+                <label class="contact-label sr-only" for="contact_name">Nombre</label>
+                <div class="col-xs-12">
+                  <input formControlName="contact_name" required type="text"  class="form-control input-lg" id="contact_name" title="Nombre de contacto" name="contact_name" placeholder="Nombre de contacto (Obligatorio)">
+                </div>
+              </div>
+
+              <div class="form-group col-xs-12 ">
+                <label class="ontact-label sr-only" for="contact_mail">Correo</label>
+                <div class="col-xs-12">
+                  <input formControlName="contact_mail" required type="email" class="form-control input-lg" id="contact_mail" title="Correo electrónico (Obligatorio)" name="contact_mail" placeholder="Correo electrónico (Obligatorio)">
+                </div>
+              </div>
+
+              <div class="form-group col-xs-12 ">
+                <label  class="contact-label sr-only" for="contact_company">Empresa</label>
+                  <div class="col-xs-12">
+                    <input formControlName="contact_company" type="text" class="form-control input-lg" id="contact_company" title="Empresa (Opcional)"  name="contact_company" placeholder="Empresa (Opcional)">
+                </div>
+              </div>
+
+              <div class="form-group col-xs-12 ">
+                <label class="contact-label sr-only" for="contact_phone">Teléfono</label>
+                <div class="col-xs-12">
+                  <input formControlName="contact_phone" type="tel" class="form-control input-lg" id="contact_phone" title="Número de teléfono (Opcional)" name="contact_phone" placeholder="Número de teléfono (Opcional)">
+                </div>
+              </div>
+
+              <div class="form-group col-xs-11 " id="contact_services"title="¿Tinenes interés en algún servicio en especial? (Opcional)">
+                <h4 class="col-xs-12 contact-h4">Servicios de interés</h4>
+                <div class="checkbox col-xs-6">
+                  <label>
+                    <input formControlName="contact_services" type="checkbox" id="{{contact_services[0]}}" name="{{contact_services[0]}}" value="{{contact_services[0]}}" class="contact-svc">
+                    {{contact_services[0]}}
+                  </label>
+                </div>
+                <div class="checkbox col-xs-6">
+                  <label>
+                    <input formControlName="contact_services" type="checkbox" id="{{contact_services[1]}}" name="{{contact_services[1]}}" value="{{contact_services[1]}}" class="contact-svc">
+                    {{contact_services[1]}}
+                  </label>
+                </div>
+                <div class="checkbox col-xs-6">
+                  <label>
+                    <input formControlName="contact_services" type="checkbox" id="{{contact_services[2]}}" name="{{contact_services[2]}}" value="{{contact_services[2]}}" class="contact-svc">
+                    {{contact_services[2]}}
+                  </label>
+                </div>
+                <div class="checkbox col-xs-6">
+                  <label>
+                    <input formControlName="contact_services" type="checkbox" id="{{contact_services[3]}}" name="{{contact_services[3]}}" value="{{contact_services[3]}}" class="contact-svc">
+                    {{contact_services[3]}}
+                  </label>
+                </div>
+                <div class="checkbox col-xs-6">
+                  <label>
+                    <input formControlName="contact_services" type="checkbox" id="{{contact_services[4]}}" name="{{contact_services[4]}}" value="{{contact_services[4]}}" class="contact-svc">
+                    {{contact_services[4]}}
+                  </label>
+                </div>
+                <div class="checkbox col-xs-6">
+                  <label>
+                    <input formControlName="contact_services" type="checkbox" id="{{contact_services[5]}}" name="{{contact_services[5]}}" value="{{contact_services[5]}}" class="contact-svc">
+                    {{contact_services[5]}}
+                  </label>
+                </div>
+                <div class="checkbox col-xs-6">
+                  <label>
+                    <input formControlName="contact_services" type="checkbox" id="{{contact_services[6]}}" name="{{contact_services[6]}}" value="{{contact_services[6]}}" class="contact-svc">
+                    {{contact_services[6]}}
+                  </label>
+                </div>
+                <div class="checkbox col-xs-6">
+                  <label>
+                    <input formControlName="contact_services" type="checkbox" id="{{contact_services[7]}}" name="{{contact_services[7]}}" value="{{contact_services[7]}}" class="contact-svc">
+                    {{contact_services[7]}}
+                  </label>
+                </div>
+                <div class="checkbox col-xs-6">
+                  <label>
+                    <input formControlName="contact_services" type="checkbox" id="{{contact_services[8]}}" name="{{contact_services[8]}}" value="{{contact_services[8]}}" class="contact-svc">
+                    {{contact_services[8]}}
+                  </label>
+                </div>
+                <div class="checkbox col-xs-6">
+                  <label>
+                    <input formControlName="contact_services" type="checkbox" id="{{contact_services[9]}}" name="{{contact_services[9]}}" value="{{contact_services[9]}}" class="contact-svc">
+                    {{contact_services[9]}}
+                  </label>
+                </div>
+                <div class="checkbox col-xs-6">
+                  <label>
+                    <input formControlName="contact_services" type="checkbox" id="{{contact_services[10]}}" name="{{contact_services[10]}}" value="{{contact_services[10]}}" class="contact-svc">
+                    {{contact_services[10]}}
+                  </label>
+                </div>
+              </div>
+
+
+              <div class="form-group col-xs-12 ">
+                <textarea formControlName="contact_msg" required class="form-control input-lg"  id="contact_msg" title="Comentarios"  name="contact_msg"  placeholder="Cuéntanos acerca de tu proyecto"></textarea>
+              </div>
+
+
+
+              <re-captcha language="en" class="col-xs-12 col-lg-8" theme="dark" size="normal" site_key="6Lcqii8UAAAAAMg64tkJfXQKSrhOzyddVPCUFpBv" (captchaResponse)="processReCaptcha($event)"></re-captcha>
+
+              <input name="contact_send_btn" [disabled]="!contact_form.valid && !isTrusted" value="Enviar" type="submit" class="btn btn-block contact-send-btn" id="contact_send_btn">
+            </form>
+
+            <div id="contact_via_social" (mouseover)="animateContactSocial($event)" (mouseout)="animateContactSocial($event)">
+              <div id="contact_via_fb" href="https://greenlyon.com/greenlyon/" (click)="contactViaFB()"></div>div>
+              <h4>CONTACTANOS VÍA FaceBook</h4>
+            </div>

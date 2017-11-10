@@ -1,0 +1,101 @@
+.hexagon {
+  position: relative;
+  display: inline-block;
+  /* left/right margin approx. 25% of .hexagon width + spacing */
+  margin: 1px 38px;
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+}
+.innerhex{
+  position: relative;
+  display: inline-block;
+  /* left/right margin approx. 25% of .hexagon width + spacing */
+  margin: 1px 38px;
+  background-color: hsl(78, 100%, 42%);
+  text-align: center;
+}
+.innerhex, .innerhex::before, .innerhex::after{
+  /* easy way: height is width * 1.732
+  actual formula is 2*(width/(2*Math.tan(Math.PI/6)))
+  remove border-radius for sharp corners on hexagons */
+  width: 140px;
+  height: 242.5px;
+}
+.hexagon, .hexagon::before, .hexagon::after, .hexanone::before, .hexanone::after {
+  /* easy way: height is width * 1.732
+  actual formula is 2*(width/(2*Math.tan(Math.PI/6)))
+  remove border-radius for sharp corners on hexagons */
+  width: 150px;
+  height: 259.8px;
+}
+.hexagon::before {
+  background-color: inherit;
+  content: "";
+  position: absolute;
+  left: 0;
+  transform: rotate(-60deg);
+}
+.hexagon::after {
+  background-color: inherit;
+  content: "";
+  position: absolute;
+  left: 0;
+  transform: rotate(60deg);
+}
+.hexagon:nth-child(even) {
+  /* top approx. 50% of .hexagon height + spacing */
+  top: 130px;
+}
+.hexagon:hover {
+  color:#83BA23;
+  background-color: hsla(82, 69%, 75%, 1.0);
+  cursor: pointer;
+  z-index: 105;
+}
+.hexagon:active {
+  background-color: hsla(0, 0%, 100%, 1.0);
+  z-index: 110;
+}
+.hexanone {
+  background-color: hsla(0, 0%, 100%, 0.0);
+  position: relative;
+  display: inline-block;
+  width: 150px;
+  height: 259.8px;
+  margin: 1px 38px;
+}
+.hexanone::before {
+  background-color: hsla(0, 0%, 0%, 0.0);
+  content: "";
+  position: absolute;
+  left: 0;
+  transform: rotate(-60deg);
+}
+.hexanone::after { 
+  background-color: hsla(0, 0%, 0%, 0.0);
+  content: "";
+  position: absolute;
+  left: 0;
+  transform: rotate(60deg);
+}
+.hexanone:nth-child(even) {
+  top: 130px;
+}
+.hexagontent {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 140%;
+  font-size: 1.4rem;
+  line-height: 1.2;
+  z-index: 100;
+}
+.ibws-fix {
+  /* inline-block whitespace fix */
+  font-size: 0;
+}
+.honeycomb {
+  margin: 0 auto;
+  text-align: center;
+}

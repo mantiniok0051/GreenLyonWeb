@@ -1,0 +1,1014 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"bcak",
+				"background-size"
+			],
+			[
+				"rem",
+				"removeChild	method"
+			],
+			[
+				"get",
+				"getElementById	method"
+			],
+			[
+				"HT",
+				"HTMLMapElement	interface"
+			],
+			[
+				"M",
+				"AgmMap	alias"
+			],
+			[
+				"a",
+				"setAttributeNodeNS	method"
+			],
+			[
+				"Ht",
+				"HTMLElement	interface"
+			],
+			[
+				"doc",
+				"Document	interface"
+			],
+			[
+				"Map",
+				"MapTypeStyle	alias"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"sli",
+				"slideToRight	function"
+			],
+			[
+				"Host",
+				"HostBinding	alias"
+			],
+			[
+				"imp",
+				"implements	keyword"
+			],
+			[
+				"u",
+				"url	property"
+			],
+			[
+				"na",
+				"navigate	method"
+			],
+			[
+				"ng2-im",
+				"ng2-import	Angular 2 Import Snippet"
+			],
+			[
+				"S",
+				"snapshot	property"
+			],
+			[
+				"ac",
+				"actual_route	property"
+			],
+			[
+				"con",
+				"constructor	keyword"
+			],
+			[
+				"ng2-",
+				"ng2-import	Angular 2 Import Snippet"
+			],
+			[
+				"Rou",
+				"Router	alias"
+			],
+			[
+				"MAR",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"URL",
+				"URLSearchParams	interface"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"ngOn",
+				"ngOnInit	method"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"set",
+				"setInterval	function"
+			],
+			[
+				"ngO",
+				"ngOnInit	method"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"pri",
+				"private	keyword"
+			],
+			[
+				"contac",
+				"contac.service.component	script"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"bck",
+				"background-size"
+			],
+			[
+				"BAC",
+				"background-position"
+			],
+			[
+				"BACK",
+				"background-size"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"curr",
+				"currentItem	property"
+			],
+			[
+				"F",
+				"fullImageViewOpen	property"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"hid",
+				"hidden-md 	Bootstrap 3 Class"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"hidd",
+				"hidden-md 	Bootstrap 3 Class"
+			],
+			[
+				"title",
+				"title	Attr"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"backg",
+				"backgrounds"
+			],
+			[
+				"hi",
+				"hidden-sm 	Bootstrap 3 Class"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"hidden",
+				"hidden-sm 	Bootstrap 3 Class"
+			],
+			[
+				"hidden-",
+				"hidden-md 	Bootstrap 3 Class"
+			],
+			[
+				"kre",
+				"kreis_web	property"
+			],
+			[
+				"kreis",
+				"kreis_phone	property"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ngM",
+				"ngModel	Angular 2 ngModel Snippet"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"form-",
+				"form-horizontal 	Bootstrap 3 Class"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"BOR",
+				"border-radius"
+			],
+			[
+				"Pre",
+				"PrefixArts	property"
+			],
+			[
+				"Pr",
+				"PrefixKitchen	property"
+			],
+			[
+				"cu",
+				"item_counter	property"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"curre",
+				"currentAlbum	property"
+			],
+			[
+				"al",
+				"album_max	property"
+			],
+			[
+				"pre",
+				"PrefixKitchen	property"
+			],
+			[
+				"K",
+				"kitchensAlbum	property"
+			],
+			[
+				"albu",
+				"albumName	property"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"fa",
+				"false	keyword"
+			],
+			[
+				"ga",
+				"gallerySection	property"
+			],
+			[
+				"ti",
+				"title	Attr"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"import",
+				"import	imports a module …"
+			],
+			[
+				"footer",
+				"panel-footer 	Bootstrap 3 Class"
+			],
+			[
+				"ali",
+				"align-bottom 	Bootstrap 4 Class"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"bg-",
+				"bg-faded 	Bootstrap 4 Class"
+			],
+			[
+				"pdd",
+				"padding-right"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"navbo",
+				"navbar-fixed-top 	Bootstrap 3 Class"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fix",
+				"clearfix 	Bootstrap 3 Class"
+			],
+			[
+				"f",
+				"fixed-top 	Bootstrap 4 Class"
+			],
+			[
+				"col-xs-p",
+				"col-xs-pull-12 	Bootstrap 3 Class"
+			],
+			[
+				"conta",
+				"container-fluid 	Bootstrap 4 Class"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"cap",
+				"capitalize"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"container",
+				"container-fluid 	Bootstrap 3 Class"
+			],
+			[
+				"fl",
+				"flex-row 	Bootstrap 4 Class"
+			],
+			[
+				"row",
+				"flex-row 	Bootstrap 4 Class"
+			],
+			[
+				"argin",
+				"margin-bottom"
+			],
+			[
+				"zin",
+				"z-index"
+			],
+			[
+				"PADDIN",
+				"padding-left"
+			],
+			[
+				"Z",
+				"z-index"
+			],
+			[
+				"ju",
+				"justify"
+			],
+			[
+				"FON",
+				"font-family"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"navbar-fi",
+				"navbar-fixed-top 	Bootstrap 3 Class"
+			],
+			[
+				"nav",
+				"navbar	navbar"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"TEXT",
+				"text-decoration"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"id",
+				"id	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Contro",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 60.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/app.component.css",
+		"/C/xampp/htdocs/ysha/wp-config.php",
+		"/C/Users/MARIANO/wordpress/cibussolutions_files/localhost.sql",
+		"/C/xampp/htdocs/cibussolutions/wp-config.php",
+		"/C/Users/MARIANO/wordpress/cibussolutions/wp-config.php",
+		"/C/Users/MARIANO/wordpress/cibussolutions/cibuss_custom.css",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Users/MARIANO/wordpress/ysha_files/salustio_wp1.sql",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/contact/contact.component.ts",
+		"/C/xampp/htdocs/angular4/my-first-app/package.json",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/contact/contact.component.html",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/index.html",
+		"/C/xampp/htdocs/greenlyon/GreenLyonWeb/src/app/app.component.html",
+		"/C/Users/MARIANO/wordpress/wordpress/wp-config-sample.php",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/contact/contac.service.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/package.json",
+		"/C/node_sandbox/myfirst.js",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/main.430e1e4ac6a21cd3cdea.bundle.js",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/vendor.46a7d19167143017a3cd.bundle.js",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/src/app/brands-catalog/brands-catalog.component.ts",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/src/app/contact/contact.component.html",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/assets/css/kreis-ipad-pro-v.css",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/assets/css/kreis-xxs.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-base-style.css",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/assets/css/kreis-xxsh.css",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/assets/css/kreis-dsk-md.css",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/assets/css/kreis-xs.css",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/assets/css/kreis-lg.css",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/assets/css/kreis-xsh.css",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/src/index.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/index.html",
+		"/C/xampp/htdocs/Kreys/C - Final Static Website/B2W - Static/index.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-dsk-sm.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-xxs.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-md.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-xsh.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/brands-catalog/brands-catalog.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/brands-catalog/brands-catalog.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/gallery/gallery.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/gallery/gallery.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/imgs/backgrounds/Mikkael-Kreis-Contact-.jpg",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-ipad-pro-h.css",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/assets/css/kreis-ipad-pro-h.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-jb.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-dsk-md.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-nnd.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-nd.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-xl.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-lg.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/app.module.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-hd.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-maps.json",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/brands/brands.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/brands/brands.component.css",
+		"/C/xampp/htdocs/Kreys/Elementos/selection.json",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/welcome/welcome.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/styles.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/brands/brands.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/about/about.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/welcome/welcome.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-xs.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/router.animations.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/cccc.html",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/.angular-cli.json",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/app.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/service-portfolio/service-portfolio.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/about/about.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/.angular-cli.json",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/navi/navi.component.ts",
+		"/C/xampp/htdocs/Kreys/GreenLyon-NewSite/app/main.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/app.routing.ts",
+		"/C/xampp/htdocs/Kreys/GreenLyonWeb/index.html",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/main.d4ac1a6149f420151071.bundle.js",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/.htaccess",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/polyfills.b882da8fa85eab19be70.bundle.js",
+		"/C/xampp/htdocs/Kreys/GreenLyonWeb/package.json",
+		"/C/xampp/htdocs/Kreys/GreenLyon-NewSite/systemjs.config.js",
+		"/C/xampp/htdocs/Kreys/GreenLyon-NewSite/app/components/bienvenido.component.ts",
+		"/C/xampp/htdocs/Kreys/GreenLyon-NewSite/app/app.module.ts",
+		"/C/xampp/htdocs/Kreys/GreenLyon-NewSite/app/app.component.ts",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/inline.f282b1bf88f1d3184af5.bundle.js",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/main.228356238ab8f9d2f4b0.bundle.js",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/vendor.c37eb1ac85e0e8ab3fff.bundle.js",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/src/app/navi/navi.component.ts",
+		"/C/xampp/htdocs/Kreys/GreenLyon-NewSite/app/app.routing.ts",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/src/main.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/navi/navi.component.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/navi/navi.component.html",
+		"/C/xampp/htdocs/Kreys/GreenLyon-NewSite/index.html",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/src/app/navi/navi.component.html",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/src/app/contact/contac.service.component.ts",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/src/app/contact/contact.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-ipad-pro-v.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-xxsh.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-sm.css",
+		"/C/xampp/htdocs/webapp/ContactForm2/src/app/app.component.html",
+		"/C/xampp/htdocs/webapp/ContactForm/src/main.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/service-portfolio/service-portfolio.component.html",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/dist/assets/css/kreis-xl.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/kreis-ph.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/js/kreis-base-style.js",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/_animations/slide-in-out.animation.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/_animations/index.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/_animations/fade-in.animation.ts",
+		"/C/xampp/htdocs/Kreys/KreisIndustriesWeb/src/app/about/about.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/node_modules/@angular/animations/package.json",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/about/about.component.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/footer/footer.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/models/brand.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/about/_about.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/models/message.ts",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/servers/servers.component.ts",
+		"/C/xampp/htdocs/angular4/my-first-app/src/app/servers/servers.component.html",
+		"/C/xampp/htdocs/webapp/app/view/restaurantes-nuevo.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/contact/contact.component.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/contact/_contact.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/imgs/iconos-logos/Kreis-logo-full-color-small.png",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/gallery/gallery.component.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/footer/footer.component.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/imgs/backgrounds/linespatterns/album_lines .png",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/footer/footer.component.ts",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/app.component.html",
+		"/C/xampp/htdocs/Kreys/avances/src/app/about/about.component.html",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/css/icomoon.css",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/assets/icomoon.ttf",
+		"/C/xampp/htdocs/Kreys/KreysIndustries/src/app/welcome/welcome.component.css",
+		"/C/xampp/htdocs/Kreys/pre-prod/systemjs.config.server.js",
+		"/C/xampp/htdocs/Kreys/Elementos/curso-angular2-final/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"side-menu",
+			"Aurora",
+			"service",
+			"about-logo",
+			"about-logo-color",
+			"about-li",
+			"384px",
+			"768px",
+			"1366px",
+			"contact-left-top",
+			"204px",
+			"brands-logo",
+			"320px",
+			"640px",
+			"1024px",
+			"contact-form",
+			"kreis-con",
+			"contact-logo-mob",
+			"contact-logo",
+			"contact-right-c",
+			"contact-left-",
+			"gallery-album",
+			"side",
+			"brand-btn-sm",
+			"brand-icon",
+			"delatail-l",
+			"hidden-sm",
+			"brands-logo",
+			"services-title-ipadv",
+			"about-foo",
+			"brands",
+			"about-l",
+			"gallery-al",
+			"gally-al",
+			"navbar-",
+			"navbar-r",
+			"galle",
+			"services-legen",
+			"tall",
+			"contact-map",
+			"contact-info-data",
+			"contact-info-mob",
+			"contact-map-mob",
+			"contact-logo-mob",
+			"contact-left-top",
+			"icon-resize-full-screen",
+			"triger",
+			"gallery-album",
+			"details-text",
+			"btn-sm",
+			"brands-logo",
+			"brands-lo",
+			"contact-left-bo",
+			"service",
+			"brands-logo",
+			"services-leg",
+			"service",
+			"services-title",
+			"about-lo",
+			"1366px",
+			"768px",
+			"catalog-d",
+			"details-close-c",
+			"contact-q",
+			"service",
+			"services",
+			"about-blu",
+			"about-",
+			"kreis",
+			"constr",
+			"about-k",
+			"services-bl",
+			"service",
+			"service ",
+			"services-title-ipadv",
+			"450px",
+			"1600px",
+			"900px",
+			"contact-form",
+			"details-catalog",
+			"brands-catalog display",
+			"about-logo-mob",
+			"400px",
+			"736px",
+			"414px",
+			"gallery-album",
+			"h1",
+			"service-h3",
+			"414px",
+			"736px",
+			"service",
+			"about-fo",
+			"contact-info-mob",
+			"contact-logo-mo",
+			"agm-",
+			"contact-left-",
+			"contact-form",
+			"#contact_msg",
+			"#contact-msg",
+			"#contact-send",
+			"#contact-send-",
+			"contact-for",
+			"submitted",
+			"gallery-album",
+			"brands-map",
+			"about-b",
+			"contact-map-mob",
+			"contact-map",
+			"reCap",
+			"capt",
+			"1366px",
+			"1024px",
+			"ipad",
+			"services-title-ipad",
+			"services-title-m",
+			"1024px",
+			"1366px",
+			"gallery-n",
+			"brands-btn",
+			"brand-det",
+			"about-",
+			"hidden-sm",
+			"contact-left-top",
+			"hidden-",
+			"hidden-md",
+			"contact-left-t",
+			"#fullview",
+			"gallery-alb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"360px",
+			"720px",
+			"1280px",
+			"244px",
+			"360px",
+			"720px",
+			"1152px",
+			"1024px",
+			"640px",
+			"506px",
+			"1800px",
+			"1013px",
+			"333px",
+			"667px",
+			"375px",
+			"667px",
+			"736px",
+			"414px",
+			"736px",
+			"1366px",
+			"1024px",
+			"512px",
+			"1024px",
+			"384px",
+			"768px",
+			"1366px",
+			"400px",
+			"1440px",
+			"800px",
+			"483px",
+			"217px",
+			"196px",
+			"207px",
+			"456px",
+			"450px",
+			"900px",
+			"1600px",
+			"400px",
+			"1440px",
+			"800px",
+			"_",
+			"#D91C5C",
+			"\"",
+			"oldSelected",
+			"Akzidenz-Grotesk",
+			"img/photo/01.jpg",
+			"document"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "app.component.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

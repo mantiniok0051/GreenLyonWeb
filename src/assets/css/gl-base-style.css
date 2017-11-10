@@ -1,0 +1,299 @@
+/* =================================
+//////// General Styles /////////
+================================= */
+* {
+  overflow-x: visible;
+}
+
+body {
+  margin: 0px;
+  background-color: #fff;
+}
+
+header, section#welcome, div#filosophy, section#servicios {
+  background-color: #83BA23;
+}
+
+#welcome h2, #filosophy h2 {
+  color: #779A0B;
+  font-family: avenir-next-lt-pro-ultra-light, serif;
+}
+/* =================================
+/////////// Family-fonts ///////////
+================================= */
+/* ---- Avenir Next LT Pro Ultralight ---- */
+@font-face {
+  font-family: "avenir-next-lt-pro-ultra-light";
+  src: url('../fonts/avenir-next-lt-pro-ultra-light.otf') format('opentype');
+}
+
+
+
+/* ---- Avenir Next LT Pro Ultralight Condensed ---- */
+@font-face {
+  font-family: "AvenirNextLTPro-UltLtCn";
+  src: url('../fonts/AvenirNextLTPro-UltLtCn.otf') format('opentype');
+}
+
+/* ---- Avenir Next LT Pro-Cn ---- */
+@font-face {
+  font-family: "AvenirNextLTPro-Cn";
+  src: url('../fonts/AvenirNextLTPro-Cn.otf') format('opentype');
+}
+
+/* =================================
+/////////////// Header /////////////
+================================= */
+header img {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+#logo-header {
+  width: 50px;
+  margin-left: 100px;
+}
+
+#texto-header {
+  width: 200px;
+  padding-bottom: 0px;
+}
+
+/* =================================
+/////////////// Loader /////////////
+================================= */
+#load {
+  width: 150px;
+  display:block;
+  padding-top: 17.5%;
+}
+
+/* =================================
+//////// Sección Bienvenido ////////
+================================= */
+#landing, #landingM {
+    width: 100%;
+
+    /* ---- box shadow ---- */
+    -webkit-box-shadow: 0px 12px 5px 0px rgba(0,0,0,0.19);
+    -moz-box-shadow: 0px 12px 5px 0px rgba(0,0,0,0.19);
+    box-shadow: 0px 12px 5px 0px rgba(0,0,0,0.19);
+    background-color: #fff;
+}
+
+#landingM { /* --- hide Mobile landing --- */
+  display: none;
+}
+
+#welcome {
+  float: left;
+
+  /* ---- background panal1 ---- */
+  background: url('../img/backgrounds/panal1.png') bottom right no-repeat;
+  background-size: 530px;
+}
+
+#welcome h2, #welcome p {
+  float: left;
+  margin-left: 10%;
+  margin-right: 25%;
+}
+
+#welcome h2 {
+  margin-top: 50px;
+  font-size: 65px;
+  margin-bottom: 20px;
+}
+
+#welcome p, div#filosophy p {
+  color: #fff;
+  font-size: 15px;
+  margin-top: -5px;
+  font-family: avenir-next-lt-pro-ultra-light;
+  font-weight: normal;
+}
+
+/* =================================
+///////// Sección Nosotros /////////
+================================= */
+#about {
+  background: url('../img/backgrounds/nosotrosBG.svg') top left no-repeat;
+  background-size: 100%;
+  background-color: #626262;
+}
+
+div#about div {
+  height:600px;
+}
+
+div#about div h2, div#about div p {
+  font-family: avenir-next-lt-pro-ultra-light, serif;
+}
+
+div#about div h2 {
+  color: #94D60A;
+  font-size: 55px;
+  margin-top: 80px;
+}
+
+div#about div p {
+  font-weight: bold;
+  color: #fff;
+  font-size: 16px;
+  margin-right: 40px;
+}
+
+#about-us {
+  padding-right: 25px;
+}
+
+/* ---- Description Container ---- */
+#contenedor {
+  width: 470px;
+  height: 400px !important;
+  background-color: gray;
+  background-image: url('../img/backgrounds/miniHexagon.png');
+  background-size: 1600px;
+  opacity: 0.5;
+  margin-top: 120px;
+  margin-left: 100px;
+}
+
+/* ---- Profile Pictures ---- */
+.floating-box {
+    float: right;
+    width: 150px;
+    margin-right: 75px;
+
+}
+
+div#about div.floating-box p {
+  font-family: "AvenirNextLTPro-UltLtCn";
+  color:#94D60A;
+  text-align:center;
+  font-size: 25px;
+  margin-top:-85px;
+  margin-left: 10px;
+  z-index:-1;
+}
+
+.floating-box img {
+  width: 200px;
+  height: 250px;
+  padding: 0px 35px 100px 35px;
+  margin-left: -40px;
+  z-index: 10;
+  margin-top: -5px;
+
+   /* --- blur effect --- */
+  -webkit-filter: blur(3px);
+  -ms-filter: blur(3px);
+  -moz-filter: blur(3px);
+  filter: blur(3px);
+
+  /* --- transition effect --- */
+  -webkit-transition: all 0.5s ease; /* Safari */
+  -ms-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+
+}
+
+.floating-box {
+  /* --- transition effect --- */
+  -webkit-transition: all 0.5s ease; /* Safari */
+  -ms-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+
+  margin-top: 20px;
+  opacity: 0.4;
+}
+
+.floating-box:active, .floating-box:hover, .floating-box:focus,
+.floating-box img:active, .floating-box img:hover, .floating-box img:focus,
+.floating-box img.active, .floating-box.active {
+
+  opacity: 1 !important;
+  /* --- disable blur effect --- */
+  -webkit-filter: none !important;
+  -ms-filter: none !important;
+  -moz-filter: none !important;
+  filter: none !important;
+}
+
+/* =================================
+//////// Sección Filosofía /////////
+================================= */
+#filosophy {
+  /* ---- background filosophyBG ---- */
+  background: url('../img/backgrounds/filosophyBG.png') top left no-repeat;
+  background-size: 100%;
+
+  /* ---- inner shadow ---- */
+  -webkit-box-shadow: inset 0px 12px 5px 0px rgba(0,0,0,0.19);
+  -moz-box-shadow: inset 0px 12px 5px 0px rgba(0,0,0,0.19);
+  box-shadow: inset 0px 12px 5px 0px rgba(0,0,0,0.19);
+}
+
+#filosophy h2  {
+  font-size: 55px;
+  margin-left: 210px !important;
+  margin-top: 45px;
+}
+
+section.filosophy div#filosophy {
+  height:383px;
+}
+
+section.filosophy div#filosophy h3 {
+  font-family: "AvenirNextLTPro-UltLtCn";
+  font-size: 45px;
+  color: #779A0B;
+}
+#textosF {
+  margin-left: 260px;
+}
+
+/* =================================
+///////// Sección Valores //////////
+================================= */
+#values {
+  background: url('../img/backgrounds/valoresBG.svg')  no-repeat;
+  background-size: 100%;
+  height: 600px;
+}
+
+#values h2, #values h3 {
+  color: #8DBB00;
+}
+
+#values h2 {
+  font-family: avenir-next-lt-pro-ultra-light, serif;
+  font-size: 55px;
+  margin-top: 95px;
+  margin-left: 150px;
+}
+
+#values h3 {
+  font-family: "AvenirNextLTPro-UltLtCn";
+  font-size: 45px;
+}
+
+#values p {
+  color: #666666;
+  font-family: avenir-next-lt-pro-ultra-light, serif;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#textosV {
+  margin-left: 210px;
+}
+
+/* =================================
+///////// Sección Valores //////////
+================================= */
+#servicios{
+  background-color: 
+}
